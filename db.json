@@ -20,7 +20,7 @@
     "users":[
         
             {
-                "username":"sharun"
+                "username":"sharun",
                 "email":"user@gmail.com",
                 "password":"user",
                 "timeStamp":""
